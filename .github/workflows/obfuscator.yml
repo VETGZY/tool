@@ -3,7 +3,7 @@ name: Obfuscate and Commit
 on:
     #push:
     #    paths:
-    #        - 'worker.js'
+    #        - '明文源码.js'
     workflow_dispatch:
 
 jobs:
